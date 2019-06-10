@@ -3,4 +3,5 @@ def reverse_each_word(sentence1)
   end
   sentence1.each do |sentence|
   puts sentence.reverse!
+  end 
 end
