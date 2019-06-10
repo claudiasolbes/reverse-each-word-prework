@@ -1,3 +1,6 @@
 def reverse_each_word(sentence1)
-  puts sentence1.reverse!
+  sentence1.each do |sentence|
+    sentence.array
+  end
+  puts sentence.reverse!
 end
