@@ -1,4 +1,4 @@
 def reverse_each_word(string)
-  string.each 
-  puts
+  sentence.each |string|
+  puts 
 end
